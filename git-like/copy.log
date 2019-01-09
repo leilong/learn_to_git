@@ -1,0 +1,8 @@
+date[2019-01-09 23:46:48]	msg[Src file not find]	arg[history_test]
+date[2019-01-09 23:47:32]	msg[Dst file is exists]	arg[D:\博客文件\2018-01-04-GIT\示例\3]
+date[2019-01-09 23:55:54]	msg[Unable to copy files]	arg[history_test.php]
+date[2019-01-09 23:57:56]	msg[Unable to copy files]	arg[history_test.php]
+date[2019-01-09 23:58:29]	msg[Unable to copy files]	arg[history_test.php]
+date[2019-01-10 00:31:10]	msg[Dst file is exists]	arg[D:\博客文件\2018-01-04-GIT\示例\3\.history\20190109\stage\master]
+date[2019-01-10 00:32:50]	msg[Dst file is exists]	arg[D:\博客文件\2018-01-04-GIT\示例\3\.history\20190109\stage\master]
+date[2019-01-10 00:35:25]	msg[Dst file is exists]	arg[E:\blog\3\.history\20190109\stage\master]
