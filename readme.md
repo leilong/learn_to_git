@@ -50,8 +50,12 @@ common.php 命令行执行文件
 # 命令列表
 ```
 init	生成版本管理仓库
-add		添加文件到暂存区
-commit	添加文件到
+add	添加文件到暂存区
+commit	添加文件到版本库
+log	查看提交日志
+reset	回退版本
+diff	文件对比
+branch	分支操作
 ```
 
 # Issues
